@@ -1,4 +1,4 @@
-# Projectile Program Which has Nature Physics with C and SDL Library
+# Projectile Program with Nature Physics with C and SDL Library
 [2017-06-03] A Simple Projectile Program which has Nature Physics
 
 ### 프로그램 개발 환경
